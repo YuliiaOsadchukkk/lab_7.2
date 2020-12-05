@@ -59,7 +59,7 @@ int main()
 
     int minEl = rowMin(P, colCount, 0, P[0][0]);
     arrSearch(P, rowCount, colCount, minEl);
-    cout << "min = " << minEl << endl;
+    cout << "max = " << minEl << endl;
 
 
     
